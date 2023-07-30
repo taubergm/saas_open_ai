@@ -1,0 +1,144 @@
+
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+
+Splunk Price to Sales Ratio 2011-2022 | SPLK
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for Splunk (SPLK) over the last 10 years. The current P/S ratio for Splunk as of January 18, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+
+Search for ticker or company name...
+  
+
+
+
+
+
+
+
+Splunk P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	87.55		4.29
+2022-10-31	83.11	$20.42	4.07
+2022-07-31	103.91	$18.87	5.51
+2022-04-30	122.02	$17.62	6.92
+2022-01-31	123.92	$16.49	7.51
+2021-10-31	164.82	$15.58	10.58
+2021-07-31	141.98	$14.91	9.52
+2021-04-30	126.42	$14.31	8.83
+2021-01-31	165.03	$13.99	11.79
+2020-10-31	198.04	$14.54	13.62
+2020-07-31	209.82	$15.17	13.84
+2020-04-30	140.36	$15.51	9.05
+2020-01-31	155.26	$15.60	9.95
+2019-10-31	119.96	$14.67	8.18
+2019-07-31	135.31	$13.84	9.78
+2019-04-30	138.04	$13.08	10.55
+2019-01-31	124.84	$12.40	10.06
+2018-10-31	99.84	$11.42	8.74
+2018-07-31	96.10	$10.57	9.09
+2018-04-30	102.65	$9.91	10.36
+2018-01-31	92.37	$9.39	9.84
+2017-10-31	67.30	$8.34	8.07
+2017-07-31	60.01	$7.72	7.77
+2017-04-30	64.31	$7.30	8.81
+2017-01-31	57.86	$7.07	8.18
+2016-10-31	60.19	$6.57	9.17
+2016-07-31	62.54	$6.11	10.24
+2016-04-30	51.98	$5.68	9.15
+2016-01-31	46.29	$5.28	8.78
+2015-10-31	56.16	$4.77	11.77
+2015-07-31	69.94	$4.38	15.99
+2015-04-30	66.35	$4.06	16.35
+2015-01-31	51.65	$3.78	13.66
+2014-10-31	66.08	$3.50	18.88
+2014-07-31	47.02	$3.28	14.34
+2014-04-30	54.57	$3.07	17.79
+2014-01-31	77.03	$2.90	26.60
+2013-10-31	62.71	$2.76	22.74
+2013-07-31	50.01	$2.55	19.58
+2013-04-30	40.80	$2.38	17.16
+2013-01-31	32.96	$3.11	10.59
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$14.340B	$2.674B
+Splunk Inc. provides software solutions that enable enterprises to gain real-time operational intelligence by harnessing the value of their data. The company's offerings enable users to investigate, monitor, analyze and act on machine data and big data, irrespective of format or source, and helps in operational decision making. The company's flagship offering, Splunk Enterprise, is primarily a machine data platform. It can collect and index petabytes of machine data on a daily basis. Splunk Enterprise also enables users to interactively explore, analyze and visualize data stored in sources such as Hadoop and Amazon S3.Splunk Cloud delivers the benefits of Splunk Enterprise deployed and managed reliably and scalably as a service. Splunk Light provides log search and analysis, which are designed, priced and packaged for small IT environments. The company's premium solutions include Splunk Enterprise Security, Splunk IT Service Intelligence and Splunk User Behavior Analytics.
+Stock Name	Country	Market Cap	PE Ratio
+Snowflake (SNOW)	United States	$45.059B	0.00
+Sea (SE)	Singapore	$34.608B	0.00
+Veeva Systems (VEEV)	United States	$24.952B	64.36
+Paycom Software (PAYC)	United States	$18.713B	75.31
+Pinterest (PINS)	United States	$17.688B	217.33
+HubSpot (HUBS)	United States	$15.468B	0.00
+Snap (SNAP)	United States	$15.179B	0.00
+Cloudflare (NET)	United States	$14.542B	0.00
+Bill Holdings (BILL)	United States	$10.945B	0.00
+Toast (TOST)	United States	$10.391B	0.00
+Ceridian HCM (CDAY)	United States	$10.276B	0.00
+Twilio (TWLO)	United States	$9.882B	0.00
+Unity Software (U)	United States	$9.227B	0.00
+Clarivate (CLVT)	United Kingdom	$7.113B	14.65
+Samsara (IOT)	United States	$6.465B	0.00
+Smartsheet (SMAR)	United States	$5.625B	0.00
+Alight (ALIT)	United States	$4.913B	24.56
+Informatica (INFA)	United States	$4.665B	0.00
+Workiva (WK)	United States	$4.578B	0.00
+Clearwater Analytics Holdings (CWAN)	United States	$4.407B	924.50
+Box (BOX)	United States	$4.376B	0.00
+New Relic (NEWR)	United States	$3.968B	0.00
+Calix (CALX)	United States	$3.897B	99.25
+DoubleVerify Holdings (DV)	United States	$3.812B	72.25
+Alteryx (AYX)	United States	$3.535B	0.00
+EngageSmart (ESMT)	United States	$3.101B	156.17
+Evolent Health (EVH)	United States	$3.038B	48.42
+Asana (ASAN)	United States	$2.989B	0.00
+DigitalOcean Holdings (DOCN)	United States	$2.683B	0.00
+Chegg (CHGG)	United States	$2.557B	47.40
+PagerDuty (PD)	United States	$2.422B	0.00
+Micro Focus (MFGP)	United Kingdom	$2.205B	0.00
+E2open Parent Holdings (ETWO)	United States	$1.805B	22.96
+ForgeRock (FORG)	United States	$1.697B	0.00
+Model N (MODN)	United States	$1.600B	0.00
+Compass (COMP)	United States	$1.504B	0.00
+SolarWinds (SWI)	United States	$1.484B	39.91
+Planet Labs PBC (PL)	United States	$1.350B	0.00
+Enfusion (ENFN)	United States	$1.316B	20.25
+Fastly (FSLY)	United States	$1.266B	0.00
+Olo (OLO)	United States	$1.147B	0.00
+SEMrush Holdings (SEMR)	United States	$1.143B	0.00
+Tuya (TUYA)	China	$1.118B	0.00
+Zuora (ZUO)	United States	$0.921B	0.00
+Riskified (RSKD)	Israel	$0.862B	0.00
+VTEX (VTEX)	United Kingdom	$0.839B	0.00
+Nextdoor Holdings (KIND)	United States	$0.795B	0.00
+Yalla Group (YALA)		$0.610B	8.79
+ON24 (ONTF)	United States	$0.414B	0.00
+CS Disco (LAW)	United States	$0.383B	0.00
+Blend Labs (BLND)	United States	$0.362B	0.00
+Arlo Technologies (ARLO)	United States	$0.358B	0.00
+Innovid (CTV)	Israel	$0.265B	0.00
+MiX Telematics (MIXT)	United States	$0.173B	25.46
+KOREs (KORE)	United States	$0.126B	0.00
+Cloopen (RAAS)	China	$0.125B	0.00
+VirnetX Holding Corp (VHC)	United States	$0.106B	0.00
+Cheetah Mobile (CMCM)	China	$0.066B	0.00
+Castlight Health, Inc (CSLT)	United States	$0.000B	0.00
+
+
+
+
+
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.

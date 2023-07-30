@@ -1,0 +1,24 @@
+
+
+Dropbox P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-18	22.97		3.74
+2022-09-30	20.72	$6.14	3.37
+2022-06-30	20.99	$5.89	3.57
+2022-03-31	23.25	$5.66	4.11
+2021-12-31	24.54	$5.41	4.54
+2021-09-30	29.22	$5.20	5.62
+2021-06-30	30.31	$4.98	6.09
+2021-03-31	26.66	$4.75	5.61
+2020-12-31	22.19	$4.57	4.85
+2020-09-30	19.26	$4.44	4.34
+2020-06-30	21.77	$4.31	5.05
+2020-03-31	18.10	$4.18	4.33
+2019-12-31	17.91	$4.03	4.44
+2019-09-30	20.17	$3.99	5.05
+2019-06-30	25.05	$3.85	6.50
+2019-03-31	21.80	$3.72	5.85
+2018-12-31	20.43	$4.23	4.83
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Services	$8.252B	$2.158B
+Dropbox, Inc. is a service company. It offers a platform which enables users to store and share files, photos, videos, songs and spreadsheets. Dropbox, Inc. is headquartered in San Francisco, California.

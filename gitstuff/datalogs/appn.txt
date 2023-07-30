@@ -1,0 +1,25 @@
+Appian P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-18	37.35		6.02
+2022-09-30	40.83	$6.21	6.58
+2022-06-30	47.36	$5.88	8.05
+2022-03-31	60.82	$5.53	11.00
+2021-12-31	65.21	$5.20	12.53
+2021-09-30	92.51	$4.91	18.85
+2021-06-30	137.75	$4.71	29.22
+2021-03-31	132.95	$4.52	29.41
+2020-12-31	162.09	$4.43	36.57
+2020-09-30	64.75	$4.30	15.07
+2020-06-30	51.25	$4.20	12.20
+2020-03-31	40.23	$4.23	9.50
+2019-12-31	38.21	$4.00	9.54
+2019-09-30	47.50	$3.92	12.10
+2019-06-30	36.07	$3.79	9.51
+2019-03-31	34.43	$3.76	9.15
+2018-12-31	26.71	$3.67	7.27
+2018-09-30	33.10	$3.73	8.89
+2018-06-30	36.16	$3.59	10.08
+2018-03-31	25.18	$3.62	6.95
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$2.691B	$0.369B
+Appian Corporation provides low-code software development platform which enables organizations to develop various applications primarily in the United States and internationally. The Company's products include business process management software, case management, mobile application development and platform as a service. It serves financial services, healthcare, government, telecommunications, media, energy, manufacturing and transportation organizations. Appian Corporation is headquartered in Reston, Virginia.

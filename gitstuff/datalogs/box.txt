@@ -1,0 +1,133 @@
+
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+
+Box Price to Sales Ratio 2014-2022 | BOX
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for Box (BOX) over the last 10 years. The current P/S ratio for Box as of January 19, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+
+Search for ticker or company name...
+  
+
+
+
+
+
+
+
+Box P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	30.54		4.67
+2022-10-31	29.05	$6.55	4.44
+2022-07-31	28.44	$6.34	4.49
+2022-04-30	30.62	$5.96	5.14
+2022-01-31	26.13	$5.56	4.70
+2021-10-31	25.83	$5.34	4.84
+2021-07-31	23.92	$5.10	4.69
+2021-04-30	21.30	$5.02	4.25
+2021-01-31	17.34	$4.97	3.49
+2020-10-31	15.50	$4.94	3.14
+2020-07-31	17.95	$4.89	3.67
+2020-04-30	16.14	$4.82	3.35
+2020-01-31	15.03	$4.73	3.18
+2019-10-31	16.92	$4.65	3.64
+2019-07-31	16.54	$4.55	3.64
+2019-04-30	20.62	$4.43	4.66
+2019-01-31	20.92	$4.32	4.84
+2018-10-31	18.00	$4.18	4.30
+2018-07-31	23.96	$4.05	5.92
+2018-04-30	22.86	$3.92	5.83
+2018-01-31	22.24	$3.80	5.86
+2017-10-31	21.95	$3.64	6.03
+2017-07-31	18.85	$3.48	5.42
+2017-04-30	17.24	$3.31	5.21
+2017-01-31	17.07	$3.14	5.44
+2016-10-31	14.42	$2.98	4.84
+2016-07-31	11.65	$2.82	4.13
+2016-04-30	12.93	$2.68	4.83
+2016-01-31	10.76	$2.51	4.29
+2015-10-31	12.48	$4.93	2.53
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$4.376B	$0.874B
+Box, Inc. is a provider of a cloud content management platform. The platform enables internal and external collaboration on content, automation of content-driven business processes, development of custom applications, data protection, security and compliance features. It serves advertising, construction, consumer packaged goods, education, energy, financial services and insurance, government, healthcare and life sciences, high tech, legal, manufacturing, media and entertainment as well as the retail industry. Other than the U.S, the company operates in the U.K. France, Germany, Japan, Canada, Australia, Netherlands and Sweden. Box currently derives revenues from subscription, sale of premier support package and professional services.
+Stock Name	Country	Market Cap	PE Ratio
+Snowflake (SNOW)	United States	$45.059B	0.00
+Sea (SE)	Singapore	$34.608B	0.00
+Veeva Systems (VEEV)	United States	$24.952B	64.36
+Paycom Software (PAYC)	United States	$18.713B	75.31
+Pinterest (PINS)	United States	$17.688B	217.33
+HubSpot (HUBS)	United States	$15.468B	0.00
+Snap (SNAP)	United States	$15.179B	0.00
+Cloudflare (NET)	United States	$14.542B	0.00
+Bill Holdings (BILL)	United States	$10.945B	0.00
+Toast (TOST)	United States	$10.391B	0.00
+Ceridian HCM (CDAY)	United States	$10.276B	0.00
+Twilio (TWLO)	United States	$9.882B	0.00
+Unity Software (U)	United States	$9.227B	0.00
+Clarivate (CLVT)	United Kingdom	$7.113B	14.65
+Samsara (IOT)	United States	$6.465B	0.00
+Smartsheet (SMAR)	United States	$5.625B	0.00
+Alight (ALIT)	United States	$4.913B	24.56
+Informatica (INFA)	United States	$4.665B	0.00
+Workiva (WK)	United States	$4.578B	0.00
+Clearwater Analytics Holdings (CWAN)	United States	$4.407B	924.50
+New Relic (NEWR)	United States	$3.968B	0.00
+Calix (CALX)	United States	$3.897B	99.25
+DoubleVerify Holdings (DV)	United States	$3.812B	72.25
+Alteryx (AYX)	United States	$3.535B	0.00
+EngageSmart (ESMT)	United States	$3.101B	156.17
+Evolent Health (EVH)	United States	$3.038B	48.42
+Asana (ASAN)	United States	$2.989B	0.00
+DigitalOcean Holdings (DOCN)	United States	$2.683B	0.00
+Chegg (CHGG)	United States	$2.557B	47.40
+PagerDuty (PD)	United States	$2.422B	0.00
+Micro Focus (MFGP)	United Kingdom	$2.205B	0.00
+E2open Parent Holdings (ETWO)	United States	$1.805B	22.96
+ForgeRock (FORG)	United States	$1.697B	0.00
+Model N (MODN)	United States	$1.600B	0.00
+Compass (COMP)	United States	$1.504B	0.00
+SolarWinds (SWI)	United States	$1.484B	39.91
+Planet Labs PBC (PL)	United States	$1.350B	0.00
+Enfusion (ENFN)	United States	$1.316B	20.25
+Fastly (FSLY)	United States	$1.266B	0.00
+Olo (OLO)	United States	$1.147B	0.00
+SEMrush Holdings (SEMR)	United States	$1.143B	0.00
+Tuya (TUYA)	China	$1.118B	0.00
+Zuora (ZUO)	United States	$0.921B	0.00
+Riskified (RSKD)	Israel	$0.862B	0.00
+VTEX (VTEX)	United Kingdom	$0.839B	0.00
+Nextdoor Holdings (KIND)	United States	$0.795B	0.00
+Yalla Group (YALA)		$0.610B	8.79
+ON24 (ONTF)	United States	$0.414B	0.00
+CS Disco (LAW)	United States	$0.383B	0.00
+Blend Labs (BLND)	United States	$0.362B	0.00
+Arlo Technologies (ARLO)	United States	$0.358B	0.00
+Innovid (CTV)	Israel	$0.265B	0.00
+MiX Telematics (MIXT)	United States	$0.173B	25.46
+KOREs (KORE)	United States	$0.126B	0.00
+Cloopen (RAAS)	China	$0.125B	0.00
+VirnetX Holding Corp (VHC)	United States	$0.106B	0.00
+Cheetah Mobile (CMCM)	China	$0.066B	0.00
+Castlight Health, Inc (CSLT)	United States	$0.000B	0.00
+
+
+
+
+
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.
+

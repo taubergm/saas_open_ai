@@ -1,0 +1,89 @@
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+Oracle Price to Sales Ratio 2010-2022 | ORCL
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for Oracle (ORCL) over the last 10 years. The current P/S ratio for Oracle as of January 31, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+Search for ticker or company name...
+  
+
+Oracle P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-31	88.46		5.30
+2022-11-30	82.72	$16.70	4.95
+2022-08-31	73.50	$16.08	4.57
+2022-05-31	70.97	$15.31	4.63
+2022-02-28	74.68	$14.78	5.05
+2021-11-30	88.86	$13.98	6.36
+2021-08-31	86.99	$13.30	6.54
+2021-05-31	76.57	$12.89	5.94
+2020-08-31	54.98	$12.07	4.56
+2020-05-31	51.45	$11.75	4.38
+2020-02-29	47.11	$11.57	4.07
+2019-11-30	53.23	$11.94	4.46
+2019-08-31	49.15	$11.71	4.20
+2019-05-31	47.57	$11.52	4.13
+2021-02-28	62.47	$10.83	5.77
+2019-02-28	48.80	$10.06	4.85
+2018-11-30	45.46	$9.75	4.66
+2018-08-31	45.29	$9.48	4.78
+2018-05-31	43.39	$9.31	4.66
+2018-02-28	46.87	$9.31	5.03
+2017-11-30	45.20	$9.15	4.94
+2017-08-31	46.19	$9.07	5.09
+2017-05-31	41.50	$8.98	4.62
+2017-02-28	38.77	$8.84	4.39
+2016-11-30	36.45	$8.77	4.16
+2016-08-31	37.24	$8.70	4.28
+2016-05-31	36.18	$8.58	4.22
+2016-02-29	32.98	$8.49	3.88
+2015-11-30	34.80	$9.59	3.63
+2015-08-31	32.99	$9.58	3.44
+2015-05-31	38.54	$9.80	3.93
+2020-11-30	55.68	$9.31	5.98
+2015-02-28	38.69	$8.55	4.52
+2014-11-30	37.35	$8.51	4.39
+2014-08-31	36.46	$8.40	4.34
+2014-05-31	36.78	$8.30	4.43
+2014-02-28	34.13	$8.10	4.21
+2013-11-30	30.70	$7.93	3.87
+2013-08-31	27.62	$7.78	3.55
+2013-05-31	29.17	$7.65	3.81
+2013-02-28	29.57	$7.53	3.93
+2012-11-30	27.63	$7.45	3.71
+2012-08-31	27.12	$7.29	3.72
+2012-05-31	22.64	$7.26	3.12
+2012-02-29	24.97	$7.22	3.46
+2011-11-30	26.70	$7.15	3.74
+2011-08-31	23.86	$7.11	3.36
+2011-05-31	29.03	$6.96	4.17
+2011-02-28	27.86	$6.73	4.14
+2010-11-30	22.87	$6.29	3.64
+2010-08-31	18.43	$5.77	3.20
+2010-05-31	19.01	$5.29	3.59
+2010-02-28	20.72	$4.75	4.36
+2009-11-30	18.52	$4.57	4.05
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Computer Software	$238.511B	$42.440B
+Oracle Corporation is one of the largest enterprise-grade database, middleware and application software providers. Oracle has expanded its cloud computing operations over the last couple of years. The company offers cloud solutions and services that can be used to build and manage various cloud deployment models. Built upon open industry standards such as SQL, Java and HTML5, Oracle Cloud provides access to application services, platform services and infrastructure services for a subscription. Through its Oracle Enterprise Manager offering, the company manages cloud environments. Oracle's software and hardware products and services include Oracle Database, Oracle Fusion Middleware, Java and Oracle Engineered Systems. Oracle Engineered Systems include Exadata Database Machine, Exalogic Elastic Cloud, Exalytics In-Memory Machine, SPARC SuperCluster, Virtual Compute Alliance, Oracle Database Appliance, Oracle Big Data Appliance and ZFS Storage.
+Stock Name	Country	Market Cap	PE Ratio
+Salesforce (CRM)	United States	$167.970B	88.40
+SAP SE (SAP)	Germany	$139.816B	54.88
+VMware (VMW)	United States	$52.102B	31.56
+BlackBerry (BB)	Canada	$2.470B	0.00
+PROS Holdings (PRO)	United States	$1.142B	0.00
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.

@@ -1,0 +1,26 @@
+Alteryx P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-18	51.16		4.78
+2022-09-30	55.84	$10.70	5.22
+2022-06-30	48.42	$9.39	5.15
+2022-03-31	71.53	$8.54	8.38
+2021-12-31	60.50	$7.98	7.58
+2021-09-30	73.10	$7.83	9.34
+2021-06-30	86.02	$7.85	10.96
+2021-03-31	82.96	$7.52	11.03
+2020-12-31	121.79	$7.41	16.44
+2020-09-30	113.55	$7.25	15.65
+2020-06-30	164.28	$7.01	23.43
+2020-03-31	95.17	$6.87	13.86
+2019-12-31	100.07	$6.33	15.80
+2019-09-30	107.43	$5.43	19.78
+2019-06-30	109.12	$4.77	22.88
+2019-03-31	83.87	$4.31	19.47
+2018-12-31	59.47	$3.97	14.97
+2018-09-30	57.21	$3.32	17.21
+2018-06-30	38.16	$2.95	12.94
+2018-03-31	34.14	$2.62	13.03
+2017-12-31	25.27	$2.64	9.57
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$3.558B	$0.536B
+Alteryx, Inc. provides self-service data analytics software platform. The Company's product consists of Alteryx Designer, Alteryx Server and Alteryx Analytics Gallery. Alteryx Designer offer data preparation, blending and analytics which could be deployable in the cloud and on premise; Alteryx Server, a secure and scalable product for sharing and running analytic applications in a Web-based environment and Alteryx Analytics Gallery, a cloud-based collaboration offering which allows users to share workflows in a centralized repository. Alteryx, Inc. is headquartered in Irvine, California.

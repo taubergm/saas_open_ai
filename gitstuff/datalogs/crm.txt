@@ -1,0 +1,59 @@
+Salesforce P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-17	148.47		4.87
+2022-10-31	162.59	$30.47	5.34
+2022-07-31	184.02	$29.49	6.24
+2022-04-30	175.94	$28.45	6.18
+2022-01-31	232.63	$27.40	8.49
+2021-10-31	299.69	$26.13	11.47
+2021-07-31	241.93	$25.04	9.66
+2021-04-30	230.32	$23.96	9.61
+2021-01-31	225.56	$22.94	9.83
+2020-10-31	232.27	$22.39	10.37
+2020-07-31	194.85	$21.33	9.13
+2020-04-30	161.95	$20.40	7.94
+2020-01-31	182.31	$19.39	9.40
+2019-04-30	165.35	$17.92	9.23
+2019-01-31	151.97	$17.20	8.84
+2018-10-31	137.24	$16.44	8.35
+2018-07-31	137.15	$15.78	8.69
+2018-04-30	120.99	$15.08	8.02
+2018-01-31	113.91	$14.41	7.90
+2017-10-31	102.34	$13.86	7.39
+2017-07-31	90.80	$13.30	6.83
+2017-04-30	86.12	$12.69	6.78
+2017-01-31	79.10	$12.16	6.50
+2016-10-31	75.16	$11.56	6.50
+2016-07-31	81.80	$11.03	7.42
+2016-04-30	75.80	$10.58	7.16
+2016-01-31	68.06	$10.07	6.76
+2015-10-31	77.71	$9.65	8.06
+2015-07-31	73.30	$9.27	7.91
+2015-04-30	72.82	$8.92	8.16
+2015-01-31	56.45	$8.65	6.52
+2014-10-31	63.99	$8.25	7.75
+2014-07-31	54.25	$11.08	4.89
+2014-04-30	51.65	$10.74	4.81
+2014-01-31	60.53	$10.27	5.89
+2019-07-31	154.50	$9.87	15.66
+2013-10-31	53.36	$6.32	8.44
+2013-07-31	43.75	$5.91	7.40
+2013-04-30	41.11	$5.69	7.22
+2013-01-31	43.03	$5.43	7.92
+2012-10-31	36.50	$5.12	7.12
+2012-07-31	31.09	$4.81	6.46
+2012-04-30	38.93	$4.51	8.63
+2012-01-31	29.20	$4.15	7.04
+2011-10-31	33.29	$3.82	8.73
+2011-07-31	36.18	$3.52	10.27
+2011-04-30	34.65	$3.25	10.67
+2011-01-31	32.29	$3.07	10.53
+2010-10-31	29.02	$2.92	9.93
+2010-07-31	24.74	$2.78	8.90
+2010-04-30	21.40	$2.67	8.01
+2010-01-31	15.89	$2.57	6.19
+2009-10-31	14.19	$2.45	5.78
+2009-07-31	10.84	$6.94	1.56
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Computer Software	$148.470B	$26.492B
+Salesforce.com is the leading provider of on-demand Customer Relationship Management (CRM) software in critical operations i.e. sales force & marketing automation, customer service & support, document management, analytics and custom application development. It offers a technology platform for customers & developers to build and run business applications. Salesforce helps companies of every size & industry to connect with their customers through cloud, mobile, social, IoT & artificial intelligence (AI). There are two main revenue streams: Subscription & Support and Professional Services & Other. Subscription revenues comprise subscription fees from customers, accessing the company's enterprise cloud computing services (Cloud Services), software licenses and subscription fees recognized from customers for additional support beyond the standard support lent by the company. Professional Services & Other revenues consist of fees that the company derives from consulting and implementation services and training.

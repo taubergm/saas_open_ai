@@ -1,0 +1,90 @@
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+Synopsys Price to Sales Ratio 2010-2022 | SNPS
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for Synopsys (SNPS) over the last 10 years. The current P/S ratio for Synopsys as of February 01, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+Search for ticker or company name...
+  
+
+Synopsys P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-02-02	368.59		11.35
+2022-10-31	292.55	$32.48	9.01
+2022-07-31	367.50	$31.60	11.63
+2022-04-30	286.79	$30.33	9.46
+2022-01-31	310.50	$28.66	10.83
+2021-10-31	333.18	$26.75	12.45
+2021-07-31	287.99	$26.01	11.07
+2021-04-30	247.06	$25.46	9.70
+2021-01-31	255.45	$24.52	10.42
+2020-10-31	213.86	$23.75	9.01
+2020-07-31	199.22	$22.68	8.78
+2020-04-30	157.12	$22.02	7.14
+2020-01-31	147.51	$21.87	6.74
+2019-10-31	135.75	$21.65	6.27
+2019-07-31	132.76	$21.24	6.25
+2019-04-30	121.08	$20.80	5.82
+2018-10-31	89.53	$20.51	4.36
+2018-07-31	89.43	$19.83	4.51
+2018-04-30	85.51	$20.09	4.26
+2018-01-31	92.61	$19.52	4.75
+2017-10-31	86.52	$18.76	4.61
+2019-01-31	93.35	$18.49	5.05
+2017-07-31	76.57	$17.21	4.45
+2017-04-30	73.70	$16.71	4.41
+2017-01-31	62.89	$16.24	3.87
+2016-10-31	59.31	$15.67	3.78
+2016-07-31	54.16	$15.29	3.54
+2016-04-30	47.52	$14.80	3.21
+2016-01-31	42.90	$14.42	2.98
+2015-10-31	49.98	$14.21	3.52
+2015-07-31	50.84	$13.91	3.66
+2015-04-30	46.88	$13.71	3.42
+2015-01-31	42.99	$13.47	3.19
+2014-10-31	40.98	$13.08	3.13
+2014-07-31	37.77	$12.89	2.93
+2014-04-30	37.62	$12.65	2.97
+2014-01-31	39.86	$12.54	3.18
+2013-10-31	36.42	$12.56	2.90
+2013-07-31	37.04	$12.36	3.00
+2013-04-30	35.57	$12.23	2.91
+2013-01-31	33.44	$11.94	2.80
+2012-10-31	32.20	$11.76	2.74
+2012-07-31	30.29	$11.33	2.67
+2012-04-30	30.01	$11.00	2.73
+2012-01-31	29.17	$10.68	2.73
+2011-10-31	26.81	$10.16	2.64
+2011-07-31	23.97	$10.04	2.39
+2011-04-30	27.39	$9.65	2.84
+2011-01-31	27.13	$9.29	2.92
+2010-10-31	25.58	$9.11	2.81
+2010-07-31	21.84	$8.96	2.44
+2010-04-30	22.66	$9.09	2.49
+2010-01-31	21.27	$9.19	2.31
+2009-10-31	22.02	$9.38	2.35
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Computer Software	$55.945B	$5.082B
+Synopsys is a vendor of electronic design automation (EDA) software to the semiconductor and electronics industries. The company offers a full suite of products used in the logic synthesis and functional verification phases of chip design, including a broad array of reusable design building blocks. It also sells physical synthesis and physical design products as well as physical verification products. The company's products are used to design a chip, from concept to the point of delivery to the manufacturer for fabrication. Synopsis provides software and hardware, which are used to develop electronic systems that incorporate chips. Additionally, the company provides Intellectual Property (IP) used in semiconductor design and manufacturing to simplify the design process and accelerate time-to-market for its customers. Synopsis reports revenues in three segments, namely Time-Based Products, Upfront Products and Maintenance and Service.
+Stock Name	Country	Market Cap	PE Ratio
+Oracle (ORCL)	United States	$242.798B	22.46
+Salesforce (CRM)	United States	$171.820B	90.43
+SAP SE (SAP)	Germany	$142.764B	56.03
+VMware (VMW)	United States	$52.472B	31.79
+BlackBerry (BB)	Canada	$2.609B	0.00
+PROS Holdings (PRO)	United States	$1.197B	0.00
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.

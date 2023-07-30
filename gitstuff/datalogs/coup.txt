@@ -1,0 +1,30 @@
+
+
+Coupa Software P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	79.18		7.28
+2022-10-31	53.23	$10.88	4.89
+2022-07-31	65.42	$10.53	6.21
+2022-04-30	86.30	$10.17	8.48
+2022-01-31	134.27	$9.85	13.63
+2021-10-31	227.70	$9.62	23.67
+2021-07-31	217.00	$9.04	24.00
+2021-04-30	269.04	$8.47	31.77
+2021-01-31	309.87	$8.00	38.74
+2020-10-31	267.70	$7.40	36.19
+2020-07-31	306.45	$7.08	43.27
+2020-04-30	176.09	$6.75	26.08
+2020-01-31	161.15	$6.27	25.70
+2019-10-31	137.49	$5.78	23.77
+2019-07-31	135.71	$5.33	25.47
+2019-04-30	103.33	$4.88	21.19
+2019-01-31	86.96	$4.55	19.12
+2018-10-31	64.83	$4.26	15.20
+2018-07-31	61.31	$3.99	15.38
+2018-04-30	46.37	$3.75	12.37
+2018-01-31	38.23	$3.55	10.76
+2017-10-31	34.75	$4.44	7.83
+2017-07-31	30.73	$5.48	5.60
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$6.036B	$0.725B
+Coupa Software is one of the leading providers of Business Spend Management (BSM) solutions. The company is evolving its cloud-based platform on the back of continuous product innovations to offer customers increased spend visibility, aid in mitigating supply chain risk, and increase business agility to adapt to change in spending trends. The company's BSM platform unifies all business spend - from sourcing to contracts and invoicing to payments, thereby enabling enterprises to be more resilient and ultimately spend smarter. Coupa Software is the pioneer of procure-to-pay solutions. The company's procurement module aids customers to determine spend policies, and streamline purchase requisition and purchase order processes. Businesses can track and manage purchases in real-time, and reduce time and cost with purchase orders being automatically sent to suppliers for fulfillment and invoicing.

@@ -1,0 +1,41 @@
+
+Ringcentral P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	34.61		1.71
+2022-09-30	39.96	$20.28	1.97
+2022-06-30	52.26	$19.47	2.68
+2022-03-31	117.21	$18.51	6.33
+2021-12-31	187.35	$17.45	10.74
+2021-09-30	217.50	$16.34	13.31
+2021-06-30	290.58	$15.22	19.09
+2021-03-31	297.88	$14.02	21.25
+2020-12-31	378.97	$13.19	28.73
+2020-09-30	274.61	$12.46	22.04
+2020-06-30	285.01	$11.86	24.03
+2020-03-31	211.91	$11.52	18.40
+2019-12-31	168.67	$10.93	15.43
+2019-09-30	125.66	$10.26	12.24
+2019-06-30	114.92	$9.64	11.93
+2019-03-31	107.80	$9.06	11.90
+2018-12-31	82.44	$8.50	9.70
+2018-09-30	93.05	$7.98	11.66
+2018-06-30	70.35	$7.37	9.54
+2018-03-31	63.50	$6.92	9.18
+2017-12-31	48.40	$6.50	7.44
+2017-09-30	41.75	$6.09	6.85
+2017-06-30	36.55	$5.85	6.25
+2017-03-31	28.30	$5.53	5.12
+2016-12-31	20.60	$5.23	3.94
+2016-09-30	23.66	$4.98	4.75
+2016-06-30	19.72	$4.74	4.16
+2016-03-31	15.75	$4.50	3.50
+2015-12-31	23.58	$4.25	5.55
+2015-09-30	18.15	$3.98	4.56
+2015-06-30	18.49	$3.73	4.95
+2015-03-31	15.33	$3.50	4.38
+2014-12-31	14.92	$3.31	4.51
+2014-09-30	12.71	$3.75	3.39
+2014-06-30	15.13	$4.62	3.27
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software & Services	$3.484B	$1.595B
+RingCentral is a leading provider of Unified Communications as a Service solutions including global enterprise cloud communications, collaboration, and customer engagement solutions that enable businesses to communicate, collaborate, and connect. The company's cloud-based business communications and collaboration solutions are designed to provide a single user identity across multiple locations and devices, including smartphones, tablets, PCs and desk phones. This makes remote-working and collaboration easy. RingCentral's solutions include unified voice, video, on-line meetings, team messaging, digital customer engagement, and contact center solutions. Undoubtedly, the company has been benefiting from the work-from-home wave following the coronavirus pandemic that has forced more and more people to stay home.

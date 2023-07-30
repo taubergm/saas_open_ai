@@ -1,0 +1,141 @@
+
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+
+Workday Price to Sales Ratio 2011-2022 | WDAY
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for Workday (WDAY) over the last 10 years. The current P/S ratio for Workday as of January 18, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+
+Search for ticker or company name...
+  
+
+
+
+
+
+
+Workday P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	167.54		7.16
+2022-10-31	155.82	$23.41	6.66
+2022-07-31	155.10	$22.36	6.94
+2022-04-30	206.70	$21.17	9.76
+2022-01-31	253.01	$20.30	12.47
+2021-10-31	289.98	$19.65	14.76
+2021-07-31	234.40	$19.09	12.28
+2021-04-30	247.00	$18.74	13.18
+2021-01-31	227.53	$18.29	12.44
+2020-10-31	210.12	$17.81	11.79
+2020-07-31	180.92	$17.28	10.47
+2020-04-30	153.90	$16.70	9.22
+2020-01-31	184.63	$16.02	11.53
+2019-10-31	162.16	$15.36	10.56
+2019-07-31	199.98	$14.67	13.63
+2019-04-30	205.63	$13.86	14.84
+2019-01-31	181.53	$13.07	13.89
+2018-10-31	133.02	$12.23	10.87
+2018-07-31	124.02	$11.47	10.81
+2018-04-30	124.84	$10.90	11.45
+2018-01-31	119.89	$10.35	11.58
+2017-10-31	110.99	$9.78	11.35
+2017-07-31	102.11	$9.17	11.13
+2017-04-30	87.40	$8.55	10.22
+2017-01-31	83.09	$7.97	10.42
+2016-10-31	86.68	$7.42	11.69
+2016-07-31	83.34	$6.96	11.97
+2016-04-30	74.98	$6.54	11.46
+2016-01-31	63.01	$6.11	10.32
+2015-10-31	78.97	$5.66	13.94
+2015-07-31	84.33	$5.23	16.12
+2015-04-30	91.21	$4.75	19.20
+2015-01-31	79.46	$4.28	18.55
+2014-10-31	95.48	$3.88	24.60
+2014-07-31	83.84	$3.45	24.32
+2014-04-30	73.07	$3.05	23.92
+2014-01-31	89.54	$2.73	32.83
+2013-10-31	74.87	$3.00	24.95
+2013-07-31	68.29	$3.44	19.86
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$42.223B	$5.139B
+Workday Inc. is a provider of enterprise-level software solutions for financial management and human resource domains. The company's cloud-based platform combines finance and HR in a single system that makes it easier for organizations to provide analytical insights and decision support. Notably, organizations ranging from medium-sized businesses to enterprises have opted for Workday solutions. The company also offers open, standards-based web-services application programming interfaces and pre-built packaged integrations and connectors. The company also offers applications related to Payroll, Time Tracking, Recruiting, Learning, Planning, Professional Services Automation and Student. Workday offers Adaptive Insights Business Planning Cloud solutions, Workday Prism Analytics, Workday Data-as-a-Service and Workday Marketplace.?Workday serves technology, financial services, business services, healthcare and life sciences, manufacturing, and consumer and retail industries, education and government industries.
+Stock Name	Country	Market Cap	PE Ratio
+Snowflake (SNOW)	United States	$45.059B	0.00
+Sea (SE)	Singapore	$34.608B	0.00
+Veeva Systems (VEEV)	United States	$24.952B	64.36
+Paycom Software (PAYC)	United States	$18.713B	75.31
+Pinterest (PINS)	United States	$17.688B	217.33
+HubSpot (HUBS)	United States	$15.468B	0.00
+Snap (SNAP)	United States	$15.179B	0.00
+Cloudflare (NET)	United States	$14.542B	0.00
+Bill Holdings (BILL)	United States	$10.945B	0.00
+Toast (TOST)	United States	$10.391B	0.00
+Ceridian HCM (CDAY)	United States	$10.276B	0.00
+Twilio (TWLO)	United States	$9.882B	0.00
+Unity Software (U)	United States	$9.227B	0.00
+Clarivate (CLVT)	United Kingdom	$7.113B	14.65
+Samsara (IOT)	United States	$6.465B	0.00
+Smartsheet (SMAR)	United States	$5.625B	0.00
+Alight (ALIT)	United States	$4.913B	24.56
+Informatica (INFA)	United States	$4.665B	0.00
+Workiva (WK)	United States	$4.578B	0.00
+Clearwater Analytics Holdings (CWAN)	United States	$4.407B	924.50
+Box (BOX)	United States	$4.376B	0.00
+New Relic (NEWR)	United States	$3.968B	0.00
+Calix (CALX)	United States	$3.897B	99.25
+DoubleVerify Holdings (DV)	United States	$3.812B	72.25
+Alteryx (AYX)	United States	$3.535B	0.00
+EngageSmart (ESMT)	United States	$3.101B	156.17
+Evolent Health (EVH)	United States	$3.038B	48.42
+Asana (ASAN)	United States	$2.989B	0.00
+DigitalOcean Holdings (DOCN)	United States	$2.683B	0.00
+Chegg (CHGG)	United States	$2.557B	47.40
+PagerDuty (PD)	United States	$2.422B	0.00
+Micro Focus (MFGP)	United Kingdom	$2.205B	0.00
+E2open Parent Holdings (ETWO)	United States	$1.805B	22.96
+ForgeRock (FORG)	United States	$1.697B	0.00
+Model N (MODN)	United States	$1.600B	0.00
+Compass (COMP)	United States	$1.504B	0.00
+SolarWinds (SWI)	United States	$1.484B	39.91
+Planet Labs PBC (PL)	United States	$1.350B	0.00
+Enfusion (ENFN)	United States	$1.316B	20.25
+Fastly (FSLY)	United States	$1.266B	0.00
+Olo (OLO)	United States	$1.147B	0.00
+SEMrush Holdings (SEMR)	United States	$1.143B	0.00
+Tuya (TUYA)	China	$1.118B	0.00
+Zuora (ZUO)	United States	$0.921B	0.00
+Riskified (RSKD)	Israel	$0.862B	0.00
+VTEX (VTEX)	United Kingdom	$0.839B	0.00
+Nextdoor Holdings (KIND)	United States	$0.795B	0.00
+Yalla Group (YALA)		$0.610B	8.79
+ON24 (ONTF)	United States	$0.414B	0.00
+CS Disco (LAW)	United States	$0.383B	0.00
+Blend Labs (BLND)	United States	$0.362B	0.00
+Arlo Technologies (ARLO)	United States	$0.358B	0.00
+Innovid (CTV)	Israel	$0.265B	0.00
+MiX Telematics (MIXT)	United States	$0.173B	25.46
+KOREs (KORE)	United States	$0.126B	0.00
+Cloopen (RAAS)	China	$0.125B	0.00
+VirnetX Holding Corp (VHC)	United States	$0.106B	0.00
+Cheetah Mobile (CMCM)	China	$0.066B	0.00
+Castlight Health, Inc (CSLT)	United States	$0.000B	0.00
+
+
+
+
+
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.

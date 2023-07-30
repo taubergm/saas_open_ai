@@ -1,0 +1,38 @@
+
+Paycom Software P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-18	311.77		14.05
+2022-09-30	329.99	$22.19	14.87
+2022-06-30	280.12	$20.83	13.45
+2022-03-31	346.38	$19.54	17.73
+2021-12-31	415.19	$18.13	22.90
+2021-09-30	495.75	$17.02	29.12
+2021-06-30	363.47	$16.00	22.72
+2021-03-31	370.06	$14.95	24.76
+2020-12-31	452.25	$14.43	31.33
+2020-09-30	311.30	$13.96	22.31
+2020-06-30	309.73	$13.57	22.82
+2020-03-31	202.01	$13.36	15.13
+2019-12-31	264.76	$12.64	20.95
+2019-09-30	209.49	$11.89	17.62
+2019-06-30	226.72	$11.17	20.30
+2019-03-31	189.13	$10.46	18.07
+2018-12-31	122.45	$9.66	12.68
+2018-09-30	155.41	$9.03	17.21
+2018-06-30	98.83	$8.47	11.66
+2018-03-31	107.39	$7.95	13.51
+2017-12-31	80.33	$7.37	10.90
+2017-09-30	74.96	$6.92	10.83
+2017-06-30	68.41	$6.51	10.50
+2017-03-31	57.51	$6.10	9.42
+2016-12-31	45.49	$5.18	8.77
+2016-09-30	50.13	$4.64	10.80
+2016-06-30	43.21	$4.17	10.36
+2015-12-31	37.63	$3.89	9.68
+2015-09-30	35.91	$3.61	9.94
+2015-06-30	34.15	$4.21	8.11
+2015-03-31	32.06	$4.06	7.90
+2014-12-31	26.33	$3.75	7.03
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$18.624B	$1.056B
+Paycom Software, Inc. is a provider of cloud-based human capital management (HCM) software as a service solution for integrated software for both employee records and talent management processes. The company offers analytics that manages the complete employment life cycle from recruitment to retirement. Its human resource services include retirement services administration, workers' compensation administration, employee benefit solutions, professional employer organization and other administrative services for businesses. Paycom's HCM solution offers a full suite of applications that generally falls within the following categories, namely talent acquisition, time and labor management, payroll, talent management and HR management. Its HCM software streamlines and automates many of the day-to-day record-keeping processes and provides a framework for HR staff to manage benefits administration and payroll, and map out succession planning and documents.

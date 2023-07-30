@@ -1,0 +1,120 @@
+
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+
+Elastic Price to Sales Ratio 2018-2022 | ESTC
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for Elastic (ESTC) over the last 10 years. The current P/S ratio for Elastic as of January 18, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+
+Search for ticker or company name...
+  
+
+
+
+
+
+
+
+Elastic P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	50.85		4.88
+2022-10-31	63.95	$10.41	6.14
+2022-07-31	79.89	$9.87	8.09
+2022-04-30	76.14	$9.35	8.15
+2022-01-31	93.25	$8.80	10.60
+2021-10-31	173.51	$8.17	21.25
+2021-07-31	148.06	$7.61	19.46
+2021-04-30	120.62	$7.02	17.17
+2021-01-31	151.96	$6.56	23.18
+2020-10-31	101.41	$6.18	16.41
+2020-07-31	96.19	$5.80	16.58
+2020-04-30	64.14	$5.47	11.72
+2020-01-31	64.88	$5.37	12.08
+2019-10-31	72.01	$4.97	14.48
+Sector	Industry	Market Cap	Revenue
+Business Services	Technology Services	$4.907B	$0.862B
+Elastic N.V. is a search company. It primarily provides Elastic Stack, a set of software products which ingest and store data from various sources and formats, as well as performs search, analysis and visualization. Elastic N.V. is based in Mountain View, California.
+Stock Name	Country	Market Cap	PE Ratio
+Thomson Reuters Corp (TRI)	Canada	$55.761B	51.83
+Block (SQ)	United States	$43.127B	0.00
+IQVIA Holdings (IQV)	United States	$40.965B	23.87
+Trane Technologies (TT)	Ireland	$40.025B	25.15
+Aptiv (APTV)	Ireland	$27.810B	38.16
+Spotify Technology (SPOT)	Luxembourg	$17.818B	0.00
+Rocket (RKT)	United States	$16.849B	31.67
+Nu Holdings (NU)	Brazil	$16.780B	0.00
+Jacobs Solutions (J)	United States	$15.445B	17.58
+Palantir Technologies (PLTR)	United States	$14.353B	0.00
+Waterdrop (WDH)	China	$11.824B	18.75
+Full Truck Alliance (YMM)	China	$9.403B	0.00
+NOV (NOV)	United States	$8.956B	325.71
+UiPath (PATH)	United States	$7.684B	0.00
+Procore Technologies (PCOR)	United States	$7.268B	0.00
+TELUS (CDA) (TIXT)	Canada	$5.883B	20.68
+Lumen Technologies (LUMN)	United States	$5.535B	3.28
+Evoqua Water Technologies (AQUA)	United States	$5.022B	47.36
+Parsons (PSN)	United States	$4.473B	25.73
+Instructure Holdings (INST)	United States	$3.848B	29.35
+Vontier (VNT)	United States	$3.406B	6.93
+SPX Technologies (SPXC)	United States	$3.169B	25.05
+Kyndryl Holdings (KD)	United States	$2.733B	0.00
+Lightspeed Commerce (LSPD)	Canada	$2.423B	0.00
+AMTD Digital (HKD)	Hong Kong, SAR China	$2.184B	0.00
+Sprinklr (CXM)	United States	$2.172B	0.00
+Coursera (COUR)	United States	$1.939B	0.00
+N-able (NABL)	United States	$1.774B	81.83
+Zeta Global Holdings (ZETA)	United States	$1.767B	0.00
+TDCX (TDCX)	Singapore	$1.720B	22.72
+LiveRamp Holdings (RAMP)	United States	$1.600B	0.00
+Mirion Technologies (MIR)	United States	$1.572B	0.00
+Ecovyst (ECVT)	United States	$1.301B	14.27
+MeridianLink (MLNK)	United States	$1.293B	199.75
+V2X (VVX)	United States	$1.292B	9.12
+WeWork (WE)	United States	$1.158B	0.00
+Paymentus Holdings (PAY)	United States	$1.038B	140.67
+Youdao (DAO)	China	$0.969B	0.00
+Gaotu Techedu (GOTU)	China	$0.889B	24.71
+Yext (YEXT)	United States	$0.786B	0.00
+MediaAlpha (MAX)	United States	$0.752B	0.00
+ATRenew (RERE)	China	$0.730B	0.00
+PropertyGuru Group (PGRU)	Singapore	$0.718B	0.00
+Harsco (HSC)	United States	$0.558B	21.94
+SmartRent (SMRT)	United States	$0.549B	0.00
+Amprius Technologies (AMPX)	United States	$0.517B	0.00
+Bakkt Holdings (BKKT)	United States	$0.478B	0.00
+Skillsoft (SKIL)	United States	$0.294B	0.00
+OneConnect Financial Technology (OCFT)	China	$0.291B	0.00
+CoreCard (CCRD)	United States	$0.274B	17.98
+BlackSky Technology (BKSY)	United States	$0.217B	0.00
+Doma Holdings (DOMA)	United States	$0.177B	0.00
+Sunlight Financial Holdings (SUNL)	United States	$0.172B	0.00
+Digital Media Solutions (DMS)	United States	$0.091B	0.00
+SOS (SOS)	China	$0.068B	0.00
+Owlet (OWLT)	United States	$0.065B	0.00
+BIT Mining (BTCM)	China	$0.042B	0.00
+Jianpu Technology (JT)	China	$0.034B	0.00
+Shapeways Holdings (SHPW)	United States	$0.029B	0.00
+LAIX (LAIX)	China	$0.000B	0.00
+
+
+
+
+
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.
+
+× Close Ad

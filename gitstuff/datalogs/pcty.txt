@@ -1,0 +1,128 @@
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+Paylocity Holding Price to Sales Ratio 2012-2022 | PCTY
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for Paylocity Holding (PCTY) over the last 10 years. The current P/S ratio for Paylocity Holding as of January 18, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+Search for ticker or company name...
+  
+
+
+
+
+
+Paylocity Holding P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	195.63		11.96
+2022-09-30	241.58	$16.36	14.77
+2022-06-30	174.42	$15.11	11.55
+2022-03-31	205.77	$14.02	14.67
+2021-12-31	236.16	$12.96	18.22
+2021-09-30	280.40	$12.08	23.20
+2021-06-30	190.80	$11.29	16.90
+2021-03-31	179.83	$10.66	16.87
+2020-12-31	205.91	$10.43	19.75
+2020-09-30	161.42	$10.20	15.82
+2020-06-30	145.89	$10.05	14.51
+2020-03-31	88.32	$9.89	8.93
+2019-12-31	120.82	$9.33	12.94
+2019-09-30	97.58	$8.91	10.95
+2019-06-30	93.82	$8.45	11.11
+2019-03-31	89.19	$8.03	11.10
+2018-12-31	60.21	$7.58	7.94
+2018-09-30	80.32	$7.20	11.15
+2018-06-30	58.86	$6.88	8.55
+2018-03-31	51.23	$6.53	7.85
+2017-12-31	47.16	$6.14	7.68
+2017-09-30	48.82	$5.91	8.26
+2017-06-30	45.18	$5.68	7.95
+2017-03-31	38.63	$5.45	7.09
+2016-12-31	30.01	$5.10	5.88
+2016-09-30	44.46	$4.65	9.55
+2016-06-30	43.20	$4.18	10.33
+2016-03-31	32.74	$3.91	8.37
+2015-09-30	29.99	$3.28	9.14
+2015-06-30	35.85	$3.02	11.87
+2015-03-31	28.64	$3.00	9.54
+2014-12-31	26.11	$2.85	9.16
+2014-09-30	19.65	$3.24	6.06
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Software	$10.991B	$0.853B
+Paylocity Holding Corporation offers cloud-based payroll and human capital management software solutions to medium-sized organizations across the U.S. The company, through its broad product portfolio, helps organizations to make strategic human capital decision, enhance their human resource, payroll, and finance capabilities. The company's key products include Paylocity Web Pay that provides enterprise-grade payroll processing and administration; Paylocity HR; Paylocity Impressions, an advanced social media feature that integrates peer-to-peer collaboration; Performance Management, which is used for employee performance appraisal process; Self-Service HR Portals; Paylocity Web Onboarding that enables new employees to acquire necessary knowledge, skills and behaviors and events management; Paylocity Web Time, a time-and-attendance solution; and Paylocity Web Benefits and Paylocity Enterprise Benefits.
+Stock Name	Country	Market Cap	PE Ratio
+Snowflake (SNOW)	United States	$45.059B	0.00
+Sea (SE)	Singapore	$34.608B	0.00
+Veeva Systems (VEEV)	United States	$24.952B	64.36
+Paycom Software (PAYC)	United States	$18.713B	75.31
+Pinterest (PINS)	United States	$17.688B	217.33
+HubSpot (HUBS)	United States	$15.468B	0.00
+Snap (SNAP)	United States	$15.179B	0.00
+Cloudflare (NET)	United States	$14.542B	0.00
+Bill Holdings (BILL)	United States	$10.945B	0.00
+Toast (TOST)	United States	$10.391B	0.00
+Ceridian HCM (CDAY)	United States	$10.276B	0.00
+Twilio (TWLO)	United States	$9.882B	0.00
+Unity Software (U)	United States	$9.227B	0.00
+Clarivate (CLVT)	United Kingdom	$7.113B	14.65
+Samsara (IOT)	United States	$6.465B	0.00
+Smartsheet (SMAR)	United States	$5.625B	0.00
+Alight (ALIT)	United States	$4.913B	24.56
+Informatica (INFA)	United States	$4.665B	0.00
+Workiva (WK)	United States	$4.578B	0.00
+Clearwater Analytics Holdings (CWAN)	United States	$4.407B	924.50
+Box (BOX)	United States	$4.376B	0.00
+New Relic (NEWR)	United States	$3.968B	0.00
+Calix (CALX)	United States	$3.897B	99.25
+DoubleVerify Holdings (DV)	United States	$3.812B	72.25
+Alteryx (AYX)	United States	$3.535B	0.00
+EngageSmart (ESMT)	United States	$3.101B	156.17
+Evolent Health (EVH)	United States	$3.038B	48.42
+Asana (ASAN)	United States	$2.989B	0.00
+DigitalOcean Holdings (DOCN)	United States	$2.683B	0.00
+Chegg (CHGG)	United States	$2.557B	47.40
+PagerDuty (PD)	United States	$2.422B	0.00
+Micro Focus (MFGP)	United Kingdom	$2.205B	0.00
+E2open Parent Holdings (ETWO)	United States	$1.805B	22.96
+ForgeRock (FORG)	United States	$1.697B	0.00
+Model N (MODN)	United States	$1.600B	0.00
+Compass (COMP)	United States	$1.504B	0.00
+SolarWinds (SWI)	United States	$1.484B	39.91
+Planet Labs PBC (PL)	United States	$1.350B	0.00
+Enfusion (ENFN)	United States	$1.316B	20.25
+Fastly (FSLY)	United States	$1.266B	0.00
+Olo (OLO)	United States	$1.147B	0.00
+SEMrush Holdings (SEMR)	United States	$1.143B	0.00
+Tuya (TUYA)	China	$1.118B	0.00
+Zuora (ZUO)	United States	$0.921B	0.00
+Riskified (RSKD)	Israel	$0.862B	0.00
+VTEX (VTEX)	United Kingdom	$0.839B	0.00
+Nextdoor Holdings (KIND)	United States	$0.795B	0.00
+Yalla Group (YALA)		$0.610B	8.79
+ON24 (ONTF)	United States	$0.414B	0.00
+CS Disco (LAW)	United States	$0.383B	0.00
+Blend Labs (BLND)	United States	$0.362B	0.00
+Arlo Technologies (ARLO)	United States	$0.358B	0.00
+Innovid (CTV)	Israel	$0.265B	0.00
+MiX Telematics (MIXT)	United States	$0.173B	25.46
+KOREs (KORE)	United States	$0.126B	0.00
+Cloopen (RAAS)	China	$0.125B	0.00
+VirnetX Holding Corp (VHC)	United States	$0.106B	0.00
+Cheetah Mobile (CMCM)	China	$0.066B	0.00
+Castlight Health, Inc (CSLT)	United States	$0.000B	0.00
+
+
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.

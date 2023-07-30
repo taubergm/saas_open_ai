@@ -1,0 +1,86 @@
+
+
+Search over 200,000 charts...
+Stock ScreenerStock ResearchMarket IndexesPrecious MetalsEnergyCommoditiesExchange RatesInterest RatesEconomyGlobal Metrics
+NetApp Price to Sales Ratio 2010-2022 | NTAP
+Prices
+Financials
+Revenue & Profit
+Assets & Liabilities
+Margins
+Price Ratios
+Other Ratios
+Other Metrics
+PE Ratio
+P/S Ratio
+Price/Book Ratio
+Price-FCF Ratio
+Net Worth
+Historical PS ratio values for NetApp (NTAP) over the last 10 years. The current P/S ratio for NetApp as of February 01, 2023 is . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide.
+Search for ticker or company name...
+  
+
+NetApp P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-02-02	69.05		2.38
+2022-10-31	68.71	$29.05	2.37
+2022-07-31	70.23	$28.33	2.48
+2022-04-30	71.57	$28.10	2.55
+2022-01-31	83.99	$27.24	3.08
+2021-10-31	86.24	$26.52	3.25
+2021-04-30	71.30	$25.55	2.79
+2021-01-31	63.01	$24.68	2.55
+2020-10-31	41.32	$24.57	1.68
+2020-07-31	41.28	$24.38	1.69
+2020-04-30	40.33	$24.32	1.66
+2021-07-31	76.44	$23.39	3.27
+2020-01-31	48.61	$23.17	2.10
+2019-10-31	50.48	$23.17	2.18
+2019-07-31	52.35	$23.11	2.27
+2019-04-30	64.71	$23.50	2.75
+2019-01-31	56.33	$23.31	2.42
+2018-10-31	68.85	$22.92	3.00
+2018-07-31	67.67	$22.32	3.03
+2018-04-30	57.83	$21.60	2.68
+2018-01-31	53.25	$20.81	2.56
+2017-10-31	38.33	$20.06	1.91
+2017-07-31	37.30	$19.64	1.90
+2017-04-30	34.06	$19.47	1.75
+2017-01-31	32.60	$18.95	1.72
+2016-10-31	28.72	$18.64	1.54
+2016-07-31	22.18	$18.80	1.18
+2016-04-30	19.75	$18.60	1.06
+2016-01-31	18.20	$18.75	0.97
+2015-10-31	28.01	$18.96	1.48
+2015-07-31	25.51	$18.86	1.35
+2015-04-30	29.52	$19.21	1.54
+2015-01-31	30.64	$19.06	1.61
+2014-10-31	34.55	$18.61	1.86
+2014-04-30	28.50	$18.04	1.58
+2014-01-31	33.75	$17.97	1.88
+2013-10-31	30.82	$17.84	1.73
+2013-07-31	32.53	$17.87	1.82
+2013-04-30	27.50	$17.85	1.54
+2014-07-31	31.22	$17.07	1.83
+2013-01-31	28.37	$16.98	1.67
+2012-10-31	21.21	$16.70	1.27
+2012-07-31	25.75	$16.11	1.60
+2012-04-30	30.60	$15.84	1.93
+2012-01-31	29.74	$14.59	2.04
+2011-07-31	37.45	$13.59	2.76
+2011-04-30	41.07	$13.08	3.14
+2011-01-31	43.13	$12.77	3.38
+2010-10-31	41.97	$12.40	3.38
+2010-07-31	33.34	$11.81	2.82
+2010-04-30	27.32	$11.20	2.44
+2010-01-31	22.96	$10.51	2.18
+2009-10-31	21.32	$9.97	2.14
+2009-07-31	17.70	$11.38	1.56
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Computer Storage Devices	$14.467B	$6.318B
+NetApp provides enterprise storage as well as data management software and hardware products and services. The company's product line comprises two storage platforms - FAS storage platform and E-Series platform. The company's all-flash storage portfolio comprises NVMe-based storage systems and new cloud-based services in order to provide hybrid storage architecture. FAS Storage Platform is based on the NetApp Data ONTAP operating system, which combines storage efficiency, data management and data protection. The FAS product line includes FAS6200, FAS3200 and FAS2000 series. The E-series platform helps in the deployment of Hadoop Big Data infrastructure. The E-series product line comprises EF540 Flash Array and EF550.The company's Cloud Volumes ONTAP storage data management service helps in data protection and storage competence.
+Stock Name	Country	Market Cap	PE Ratio
+Pure Storage (PSTG)	United States	$8.941B	98.50
+Teradata (TDC)	United States	$3.640B	38.45
+© 2010-2023 Macrotrends LLC  |   Terms of Service   |   Privacy Policy  |   Contact Us  |   Do Not Sell My Personal Information
+Fundamental data from Zacks Investment Research, Inc.

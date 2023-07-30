@@ -1,0 +1,24 @@
+
+Zscaler P/S Ratio Historical Data
+Date	Stock Price	TTM Sales per Share	Price to Sales Ratio
+2023-01-19	110.37		12.86
+2022-10-31	154.10	$8.58	17.96
+2022-07-31	155.06	$7.76	19.98
+2022-04-30	202.74	$6.95	29.15
+2022-01-31	257.11	$6.22	41.34
+2021-10-31	318.86	$5.56	57.31
+2021-07-31	235.91	$4.98	47.39
+2021-04-30	187.64	$4.50	41.71
+2021-01-31	199.70	$4.06	49.22
+2020-10-31	135.75	$3.68	36.86
+2020-07-31	129.85	$3.35	38.78
+2020-04-30	67.08	$3.07	21.84
+2020-01-31	56.09	$2.85	19.65
+2019-10-31	43.98	$2.67	16.47
+2019-07-31	84.27	$2.46	34.23
+2019-04-30	68.31	$2.64	25.83
+2019-01-31	48.37	$2.68	18.08
+Sector	Industry	Market Cap	Revenue
+Computer and Technology	Internet Services	$16.300B	$1.091B
+Zscaler is one of the world's leading providers of cloud-based security solutions. Zscaler offers a full range of enterprise network security services including web security, internet security, antivirus, vulnerability management, firewalls, and control over user activity in mobile, cloud computing, and Internet of things environments. As a result of its wide-scale offerings, Zscaler is one shop for almost all types of security solutions. This provides a competitive advantage over other rivals that have mostly limited types of solutions, such as Proofpoint, which is specialized in identity theft protection, FireEye and F5 Networks, which offer cloud-based proxy, firewall, sandboxing and advanced threat protection.
+
